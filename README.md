@@ -1,1 +1,1 @@
-# rice-diseases-detection-system
+# Rice-Diseases detection System
